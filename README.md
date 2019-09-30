@@ -1,5 +1,5 @@
 # neo4j-udf
- An UDF for formula aggregation and sum aggregation
+ An UDF for formula calculations and sum aggregations
  
  using cypher to do the calculations
  
